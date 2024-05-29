@@ -1,0 +1,46 @@
+body{
+    padding: 5px;
+    font-size: large;
+    background-image: url(bg3.avif);
+    background-size: 100%;
+    color: white;
+}
+img{
+    display: block;
+    margin-left: 330px;
+    margin-top: 190px;
+    width: 330px;
+    height: 310px;
+    border-radius: 20px;
+}
+h1{
+    font-size: larger;
+}
+h2{
+    font-size: large;
+}
+div ul{
+    font-size: 25px;
+    margin-left: 70%;
+    margin-top: 40px;
+}
+div.ar h2 {
+    display: block;
+    margin-left: 800px;
+    margin-top: -210px;
+}
+div.ar h1{
+    display: block;
+    margin-left: 320px;
+}
+footer{
+    margin-top: 240px;
+}
+button{
+    background-color: grey;
+
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+}
